@@ -3,9 +3,26 @@
     box-sizing: border-box;
 }
 
+h1 {
+    background-color: #dee1e6;
+    margin-bottom: 0;
+    padding: 0.1rem;
+}
+
+p.coded {
+    font-size: 10px;
+    margin: 0;
+}
+
+img#dioIcon {
+    width: 10px;
+    height: 10px;
+}
+
 body {
     background-color: #f6f8fc;
 }
+
 
 .content {
     width: 100vw;
